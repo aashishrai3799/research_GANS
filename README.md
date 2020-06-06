@@ -23,3 +23,6 @@ Use MTCNN to detect faces.
 File used for precidction. User needs to specify the address to the trained checkpoint and testing dataset.
 
 ### The rest of the files were not used directly. Maybe sometimes I may have copied some functions from them. To run the model as described in the paper, the above mentioned files are sufficient.
+
+Link to the pre-trained models: https://lmi.fe.uni-lj.si/en/research/fh/
+
